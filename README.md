@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Vision Transformer Tensorflow Logo" width="250">
+  <img src="https://www.gstatic.com/devrel-devsite/prod/v2df3c70ff8eb01e8c0bb049c3da894e4221ea678ae827e9fb45267d1a61dc2be/tensorflow/images/lockup.svg" alt="TensorFlow Logo" width="250">
 </p>
 
 <h1 align="center"> Vision Transformer (ViT) Tensorflow </h>
